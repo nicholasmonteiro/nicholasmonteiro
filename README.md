@@ -1,4 +1,4 @@
-### Olá bem vindo ao meu perfil!!!
+##### Olá bem vindo ao meu perfil!!!
 
 - 🔭 Faço faculdade Sistema informação
 - 🌱 Estudando atualamente rective native e ui/ux design
@@ -20,6 +20,6 @@
   <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nick-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
-    <img align="center" alt="Nick-java" height="30" width="40" src= "https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> 
+
 </div>
 
