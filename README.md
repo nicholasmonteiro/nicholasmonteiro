@@ -1,7 +1,7 @@
 ##### Olá bem vindo ao meu perfil!!!
 
-- 🔭 Faço faculdade Sistema informação
-- 🌱 Estudando atualamente analise de dados.
+- 🔭 Graduado em Sistema informação.
+- 🌱 Estudando analise de dados.
 - 📫 email- contato nich438@hotmail.com
 
 
