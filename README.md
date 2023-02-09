@@ -1,8 +1,8 @@
 ##### Olá bem vindo ao meu perfil!!!
 
 - 🔭 Faço faculdade Sistema informação
-- 🌱 Estudando atualamente rective native e ui/ux design
-- 📫 email- contato nicholas.azevedo@soulasalle.com.br
+- 🌱 Estudando atualamente analise de dados.
+- 📫 email- contato nich438@hotmail.com
 
 
  <div>
