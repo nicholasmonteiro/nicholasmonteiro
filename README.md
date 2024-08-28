@@ -2,7 +2,7 @@
 
 - 🔭 Graduado em Sistema informação.
 - 🌱 Estudando analise de dados.
-- 📫 email- contato nich438@hotmail.com
+- 📫 email- contato nicholasmonteiro405@gmail.com
 
 
  <div>
